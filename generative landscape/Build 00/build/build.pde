@@ -1,9 +1,10 @@
 //**********************************************************************
 // Author            : Bryan Costanza (GitHub: TravelByRocket)
-// Date created      : 
-// Purpose           :  
+// Date created      : 20191005
+// Purpose           : Workshop on generative algorithms
 // Revision History  : 
-// YYYYMMDD --  
+// 20191005 -- make mountains with Perlin, sun, lightning, trees
+// 20191007 -- header update, file structure renamed
 //**********************************************************************
 
 String dataDir    = "../../data/";
